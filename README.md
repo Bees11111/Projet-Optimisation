@@ -1,5 +1,9 @@
 # Complétion de Matrices par Méthode d'Optimisation Alternée
 
+---
+Elyes KHALFALLAH - 5230635
+---
+
 ## Description
 
 Ce projet explore l'algorithme de **complétion de matrices** par **méthode d'optimisation alternée**. Le but est de compléter une matrice partiellement observée, en imposant des contraintes de faible rang sur la solution, en utilisant une approche itérative qui optimise successivement deux matrices de rang faible.
