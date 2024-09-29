@@ -49,6 +49,18 @@ Ce projet utilise Python 3 et les bibliothèques suivantes :
    ```bash
    git clone https://github.com/Bees11111/Projet-Optimisation.git
    ```
+2. Dirigez vous vers le dossier :
+   ```bash
+   cd Projet-Optimisation
+   ```
+2. Créez un environnement virtuel nommé `env_opti` :
+   ```bash
+   python -m venv env_opti
+   ```
+2. Activez l'environnement virtuel :
+   ```bash
+   env_opti\Scripts\activate
+   ```
 2. Installez les dépendances :
    ```bash
    pip install -r requirements.txt
